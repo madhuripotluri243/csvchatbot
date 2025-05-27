@@ -1,0 +1,101 @@
+PlayerID,Name,Team,Role,BattingStyle,BowlingStyle,Matches,Innings,Runs,BattingAverage,StrikeRate,Wickets,BowlingAverage,Economy,Centuries,Fifties,Catches
+P0001,Virat Kohli,England,Batsman,Right-hand bat,None,229,172,2847,16.55,117.05,0,0.0,0.0,2,57,45
+P0002,Rohit Sharma,Sri Lanka,Wicket-Keeper,Right-hand bat,None,136,118,8683,73.58,110.14,0,0.0,0.0,22,43,110
+P0003,Babar Azam,New Zealand,Bowler,Right-hand bat,Right-arm fast,54,43,144,3.35,120.97,123,25.48,7.21,0,0,105
+P0004,Steve Smith,South Africa,Wicket-Keeper,Right-hand bat,Right-arm spin,163,156,5055,32.4,149.33,0,0.0,0.0,22,57,94
+P0005,Joe Root,England,Batsman,Left-hand bat,None,105,91,8479,93.18,79.62,0,0.0,0.0,15,45,38
+P0006,Kane Williamson,Sri Lanka,All-Rounder,Left-hand bat,Left-arm fast,110,110,8423,76.57,94.49,232,20.21,6.22,8,22,91
+P0007,David Warner,Pakistan,Bowler,Left-hand bat,Right-arm spin,61,45,78,1.73,126.06,136,21.34,7.41,0,0,70
+P0008,Shubman Gill,Pakistan,All-Rounder,Left-hand bat,Left-arm spin,113,106,8087,76.29,76.75,247,23.34,6.87,27,1,106
+P0009,KL Rahul,South Africa,All-Rounder,Right-hand bat,Left-arm fast,237,155,8838,57.02,109.21,276,28.02,5.02,8,32,138
+P0010,Ben Stokes,Australia,All-Rounder,Left-hand bat,Left-arm fast,219,52,1305,25.1,105.73,125,26.37,3.74,29,54,32
+P0011,Hardik Pandya,Australia,Bowler,Right-hand bat,Right-arm fast,210,103,354,3.44,146.91,80,28.32,3.91,0,0,102
+P0012,Ravindra Jadeja,Pakistan,Batsman,Left-hand bat,None,182,170,8330,49.0,127.74,0,0.0,0.0,6,3,27
+P0013,Mohammed Shami,India,Wicket-Keeper,Right-hand bat,Right-arm fast,221,43,1475,34.3,61.1,0,0.0,0.0,12,11,130
+P0014,Jasprit Bumrah,India,Batsman,Right-hand bat,None,12,12,2450,204.17,78.36,0,0.0,0.0,23,17,97
+P0015,Pat Cummins,Pakistan,Bowler,Left-hand bat,Left-arm fast,280,230,222,0.97,144.21,218,23.92,4.82,0,0,131
+P0016,Mitchell Starc,New Zealand,All-Rounder,Right-hand bat,None,29,18,8178,454.33,125.85,218,27.89,4.82,16,44,35
+P0017,Shaheen Afridi,Sri Lanka,Batsman,Left-hand bat,None,284,128,4648,36.31,139.03,0,0.0,0.0,28,53,75
+P0018,Trent Boult,Pakistan,Wicket-Keeper,Left-hand bat,None,51,15,9948,663.2,93.13,0,0.0,0.0,17,54,25
+P0019,Quinton de Kock,South Africa,Batsman,Right-hand bat,None,167,88,645,7.33,134.21,0,0.0,0.0,26,22,62
+P0020,Fakhar Zaman,Australia,All-Rounder,Right-hand bat,None,82,5,7799,1559.8,103.4,3,33.35,5.73,13,30,69
+P0021,Jos Buttler,Sri Lanka,Wicket-Keeper,Left-hand bat,None,232,112,9927,88.63,61.04,0,0.0,0.0,23,10,66
+P0022,Marnus Labuschagne,England,All-Rounder,Right-hand bat,Left-arm spin,110,105,3239,30.85,89.49,105,28.15,5.11,10,47,120
+P0023,Shakib Al Hasan,Australia,Batsman,Left-hand bat,None,164,16,5716,357.25,81.05,0,0.0,0.0,13,15,11
+P0024,Tamim Iqbal,England,All-Rounder,Right-hand bat,Left-arm fast,148,76,6612,87.0,139.56,9,21.77,7.01,11,31,70
+P0025,Rassie van der Dussen,South Africa,Wicket-Keeper,Right-hand bat,Right-arm fast,83,23,6070,263.91,114.73,0,0.0,0.0,5,13,44
+P0026,Dasun Shanaka,India,Bowler,Left-hand bat,Left-arm fast,205,71,56,0.79,91.5,5,30.89,6.65,0,0,112
+P0027,Wanindu Hasaranga,Australia,All-Rounder,Left-hand bat,Right-arm fast,61,24,9044,376.83,114.87,107,24.22,7.26,11,3,46
+P0028,Mustafizur Rahman,Pakistan,Batsman,Left-hand bat,None,212,72,1883,26.15,84.51,0,0.0,0.0,0,1,69
+P0029,Shreyas Iyer,Bangladesh,Batsman,Left-hand bat,None,238,193,9090,47.1,96.78,0,0.0,0.0,0,19,87
+P0030,Ishan Kishan,Sri Lanka,All-Rounder,Left-hand bat,Right-arm fast,132,122,5155,42.25,98.15,286,33.97,7.24,30,16,17
+P0031,Rassie van der Dussen,Pakistan,Wicket-Keeper,Right-hand bat,Right-arm fast,168,149,5476,36.75,71.14,0,0.0,0.0,21,27,115
+P0032,Temba Bavuma,New Zealand,Bowler,Right-hand bat,Left-arm fast,210,172,200,1.16,116.42,197,28.81,4.36,0,0,82
+P0033,Liton Das,South Africa,Wicket-Keeper,Left-hand bat,Left-arm spin,42,7,7690,1098.57,80.42,0,0.0,0.0,21,34,63
+P0034,Paul Stirling,Pakistan,All-Rounder,Right-hand bat,None,34,6,2669,444.83,144.89,106,32.37,6.26,23,54,31
+P0035,Rahmat Shah,England,Batsman,Right-hand bat,None,256,182,3240,17.8,80.61,0,0.0,0.0,28,50,133
+P0036,Mohammad Nabi,India,All-Rounder,Left-hand bat,Left-arm fast,213,20,3220,161.0,76.59,256,31.82,4.6,25,42,149
+P0037,Naveen-ul-Haq,Australia,Wicket-Keeper,Right-hand bat,Right-arm spin,139,111,2845,25.63,60.89,0,0.0,0.0,26,43,36
+P0038,Harry Tector,Australia,Batsman,Left-hand bat,None,148,126,799,6.34,66.19,0,0.0,0.0,21,42,10
+P0039,Mujeeb Ur Rahman,Pakistan,Wicket-Keeper,Left-hand bat,Right-arm spin,159,38,9779,257.34,60.98,0,0.0,0.0,7,60,59
+P0040,Suryakumar Yadav,Bangladesh,Wicket-Keeper,Left-hand bat,Left-arm fast,90,18,8134,451.89,99.29,0,0.0,0.0,29,2,145
+P0041,Axar Patel,India,Batsman,Right-hand bat,None,288,193,9059,46.94,63.21,0,0.0,0.0,20,3,117
+P0042,Deepak Chahar,England,Bowler,Left-hand bat,Right-arm spin,140,88,343,3.9,71.33,287,25.52,6.16,0,0,47
+P0043,Marcus Stoinis,New Zealand,All-Rounder,Left-hand bat,Right-arm spin,274,68,1550,22.79,67.22,175,34.17,5.46,26,52,80
+P0044,Aaron Finch,India,Bowler,Left-hand bat,Right-arm fast,293,33,283,8.58,64.96,268,24.06,5.97,0,0,24
+P0045,Usman Khawaja,England,Batsman,Right-hand bat,None,251,168,9372,55.79,61.05,0,0.0,0.0,24,0,35
+P0046,Imam-ul-Haq,England,Bowler,Left-hand bat,Right-arm fast,37,31,122,3.94,67.51,117,24.84,4.31,0,0,102
+P0047,Mohammad Rizwan,Sri Lanka,Wicket-Keeper,Left-hand bat,Left-arm spin,115,94,208,2.21,143.51,0,0.0,0.0,5,52,90
+P0048,Maheesh Theekshana,South Africa,All-Rounder,Right-hand bat,Right-arm fast,227,144,831,5.77,100.13,99,28.26,6.08,6,14,118
+P0049,Ruturaj Gaikwad,Australia,Wicket-Keeper,Left-hand bat,Right-arm fast,208,42,5517,131.36,61.31,0,0.0,0.0,20,35,123
+P0050,Sam Curran,South Africa,Wicket-Keeper,Left-hand bat,Left-arm spin,113,61,9082,148.89,101.03,0,0.0,0.0,27,1,86
+P0051,Tom Latham,England,Batsman,Right-hand bat,None,129,40,139,3.48,91.04,0,0.0,0.0,10,55,132
+P0052,Devon Conway,England,Bowler,Right-hand bat,Right-arm fast,71,51,313,6.14,61.77,122,25.5,3.52,0,0,148
+P0053,Daryl Mitchell,Sri Lanka,Batsman,Right-hand bat,None,163,32,5107,159.59,68.0,0,0.0,0.0,6,12,126
+P0054,Glenn Maxwell,Sri Lanka,All-Rounder,Right-hand bat,Right-arm spin,13,11,3480,316.36,147.16,271,32.35,4.64,5,4,117
+P0055,Ravichandran Ashwin,New Zealand,Batsman,Right-hand bat,None,22,10,1039,103.9,69.41,0,0.0,0.0,12,56,16
+P0056,Umesh Yadav,Australia,Batsman,Right-hand bat,None,291,120,4272,35.6,71.15,0,0.0,0.0,11,41,13
+P0057,Iftikhar Ahmed,India,Bowler,Left-hand bat,Right-arm fast,266,101,25,0.25,131.56,226,32.32,5.42,0,0,66
+P0058,Asif Ali,New Zealand,Bowler,Left-hand bat,Left-arm fast,299,99,124,1.25,77.54,237,21.03,5.59,0,0,137
+P0059,David Miller,Bangladesh,Batsman,Right-hand bat,None,208,130,8043,61.87,132.97,0,0.0,0.0,5,51,65
+P0060,Kagiso Rabada,Sri Lanka,Bowler,Left-hand bat,None,167,129,94,0.73,129.47,189,32.31,3.67,0,0,149
+P0061,Anrich Nortje,Bangladesh,Wicket-Keeper,Left-hand bat,Right-arm spin,232,127,2549,20.07,142.69,0,0.0,0.0,27,45,78
+P0062,Aiden Markram,Australia,All-Rounder,Right-hand bat,Right-arm fast,29,12,7660,638.33,111.53,281,34.97,6.1,9,33,65
+P0063,Nicholas Pooran,Pakistan,Bowler,Right-hand bat,Left-arm fast,267,225,81,0.36,106.47,141,25.32,7.13,0,0,63
+P0064,Shimron Hetmyer,Bangladesh,Bowler,Right-hand bat,Left-arm spin,75,75,465,6.2,93.12,199,28.4,5.15,0,0,38
+P0065,Jason Holder,Pakistan,Batsman,Right-hand bat,None,284,213,2028,9.52,76.32,0,0.0,0.0,22,51,23
+P0066,Alzarri Joseph,South Africa,All-Rounder,Left-hand bat,Right-arm spin,242,93,4596,49.42,120.19,12,27.58,7.03,0,33,37
+P0067,Evin Lewis,England,All-Rounder,Right-hand bat,Left-arm fast,25,11,9964,905.82,128.65,154,30.84,3.81,10,11,77
+P0068,Brandon King,South Africa,Batsman,Right-hand bat,None,175,23,6505,282.83,110.99,0,0.0,0.0,0,34,97
+P0069,Mohammad Wasim,England,Batsman,Left-hand bat,None,298,161,3756,23.33,110.16,0,0.0,0.0,10,11,62
+P0070,Haris Rauf,South Africa,All-Rounder,Left-hand bat,None,157,51,411,8.06,121.02,247,27.14,3.51,1,56,86
+P0071,Reece Topley,Bangladesh,All-Rounder,Right-hand bat,Left-arm spin,229,144,1958,13.6,148.15,81,26.2,4.19,29,2,54
+P0072,Adil Rashid,Pakistan,All-Rounder,Right-hand bat,Right-arm fast,119,73,6439,88.21,114.19,246,22.27,4.17,9,41,25
+P0073,Mark Wood,Australia,Batsman,Right-hand bat,None,58,18,8762,486.78,87.64,0,0.0,0.0,5,15,139
+P0074,Chris Woakes,Bangladesh,Wicket-Keeper,Right-hand bat,Right-arm fast,146,97,1215,12.53,76.05,0,0.0,0.0,14,47,77
+P0075,Liam Livingstone,England,Bowler,Left-hand bat,Right-arm spin,222,171,188,1.1,105.36,278,20.11,6.93,0,0,41
+P0076,Dawid Malan,New Zealand,Batsman,Left-hand bat,None,66,26,2105,80.96,129.73,0,0.0,0.0,25,56,64
+P0077,Jason Roy,New Zealand,Batsman,Left-hand bat,None,114,15,3596,239.73,101.28,0,0.0,0.0,11,17,110
+P0078,Alex Hales,England,Bowler,Right-hand bat,Right-arm spin,258,197,283,1.44,88.93,14,32.22,6.68,0,0,72
+P0079,Rahmanullah Gurbaz,Australia,All-Rounder,Left-hand bat,None,51,12,7073,589.42,70.68,249,33.34,4.58,11,52,50
+P0080,Ibrahim Zadran,Australia,Bowler,Left-hand bat,Right-arm fast,78,52,235,4.52,62.27,217,34.25,4.15,0,0,100
+P0081,Gulbadin Naib,New Zealand,Bowler,Left-hand bat,Right-arm spin,50,16,404,25.25,141.86,77,31.53,7.3,0,0,82
+P0082,Najibullah Zadran,Bangladesh,Batsman,Left-hand bat,None,209,128,3721,29.07,144.53,0,0.0,0.0,28,35,17
+P0083,Mohammad Shahzad,New Zealand,Bowler,Right-hand bat,None,239,220,73,0.33,69.99,73,34.82,4.54,0,0,46
+P0084,Hazratullah Zazai,Australia,Bowler,Left-hand bat,Right-arm fast,62,16,495,30.94,95.14,260,26.5,7.28,0,0,68
+P0085,Andy Balbirnie,New Zealand,All-Rounder,Left-hand bat,Right-arm fast,116,63,7634,121.17,137.82,180,29.1,4.6,12,51,18
+P0086,George Dockrell,New Zealand,Batsman,Right-hand bat,None,224,220,1853,8.42,140.34,0,0.0,0.0,3,44,124
+P0087,Mark Adair,New Zealand,Wicket-Keeper,Left-hand bat,Right-arm spin,252,150,3246,21.64,74.71,0,0.0,0.0,11,12,124
+P0088,Josh Little,Pakistan,Batsman,Left-hand bat,None,94,57,3172,55.65,97.62,0,0.0,0.0,18,51,46
+P0089,Curtis Campher,Pakistan,Batsman,Left-hand bat,None,150,145,9483,65.4,119.99,0,0.0,0.0,13,22,75
+P0090,Lorcan Tucker,Bangladesh,All-Rounder,Left-hand bat,None,221,92,2262,24.59,99.11,73,24.48,4.94,30,56,34
+P0091,Max O'Dowd,India,Wicket-Keeper,Left-hand bat,Left-arm fast,102,24,7870,327.92,103.26,0,0.0,0.0,0,2,40
+P0092,Scott Edwards,England,All-Rounder,Right-hand bat,Right-arm spin,292,29,6732,232.14,81.43,178,31.84,5.74,26,22,36
+P0093,Bas de Leede,South Africa,All-Rounder,Left-hand bat,Left-arm spin,225,59,3345,56.69,127.38,266,25.92,6.13,15,27,57
+P0094,Logan van Beek,South Africa,Wicket-Keeper,Right-hand bat,Left-arm spin,279,254,8029,31.61,68.52,0,0.0,0.0,19,1,136
+P0095,Vikramjit Singh,Australia,Batsman,Left-hand bat,None,271,249,569,2.29,118.64,0,0.0,0.0,6,52,117
+P0096,Roelof van der Merwe,England,Bowler,Left-hand bat,None,283,261,304,1.16,149.66,172,26.89,7.02,0,0,44
+P0097,Fred Klaassen,India,All-Rounder,Left-hand bat,Left-arm fast,43,19,3976,209.26,82.86,284,26.88,4.86,14,32,139
+P0098,Aryan Dutt,Bangladesh,Wicket-Keeper,Left-hand bat,Right-arm fast,39,37,9165,247.7,87.33,0,0.0,0.0,16,45,44
+P0099,Sybrand Engelbrecht,South Africa,Wicket-Keeper,Left-hand bat,Left-arm fast,142,64,9386,146.66,95.61,0,0.0,0.0,11,41,85
+P0100,Teja Nidamanuru,India,Batsman,Left-hand bat,None,120,48,659,13.73,72.9,0,0.0,0.0,6,34,139
